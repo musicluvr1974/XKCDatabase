@@ -1,0 +1,14 @@
+<rss version="2.0">
+  <channel>
+    <title>xkcd.com</title>
+	<link>https://xkcd.com/</link>
+	<description>xkcd.com: A webcomic of romance and math humor.</description>
+	<language>en</language>
+  <item>
+    <title>Barrel - Part 1</title>
+	<link>https://xkcd.com/1/</link>
+	<description><img src="https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg" title="Don't we all." alt="Don't we all." /></description>
+	<guid>https://www.xkcd.com/1/</guid>
+  </item>
+  </channel>
+</rss>
